@@ -1,0 +1,2 @@
+# gizlibilgi
+cokgizlibilgi
