@@ -30,7 +30,7 @@ cokgizlibilgi
 
 <!-- Jumpscare sesi -->
 <audio id="sound">
-    <source src="https://www.myinstants.com/media/sounds/scream_1.mp3" type="audio/mpeg">
+    <source src="https://i.ytimg.com/vi/sNz0VWAK3CY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBFyrSN0lzr9szu3CZEJ6_fZnk8ag">
 </audio>
 
 <script>
